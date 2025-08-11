@@ -15,12 +15,12 @@ In this project, i'll be taking screenshots of all the tools installed for all o
 ## Virtual Box
 ### `virtual box` is used to create and run virtual machines- it lets you run another operating system like linux, windows, or mac OS inside your current computer without replacing your main OS
 
-![virtualBox](./img/3.virtualbox.png)
+![virtualBox](./img/3virtualbox.png)
 
 ## Ubuntu 
 ### `ubuntu` is a free, open-source Linux operating system used for running servers, developing software, learning linuxx, and genral computing like browsing, coding, or office work
 
-![ubuntu](./img/4.ubuntu.png)
+![ubuntu](./img/4ubuntu.png)
 
 ## GitHub
 ### `GitHub` is used for storing, sharing, and collaborating on code projects online using git or version control 
