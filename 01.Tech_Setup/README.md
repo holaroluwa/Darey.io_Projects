@@ -5,7 +5,7 @@ In this project, i'll be taking screenshots of all the tools installed for all o
 ## Visual Studio Code
 ### `visual studio` code is a free, lightweight code editor used to write, edit, debug and manage code, work with `Git/GitHub` and create documentation all in one place
 
-![vsc](./img/1.Vsc.png)
+![vsc](./img/1.vsc.png)
 
 ## GIT `version control`
 ### `git` is used for tracking changes in code, collaborating with others, and managing different versions of a projects.
